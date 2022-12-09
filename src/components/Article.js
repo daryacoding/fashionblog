@@ -1,5 +1,4 @@
-import ArticleImage from "./ArticleImage";
-import ArticleBody from "./ArticleBody";
+import React from "react";
 
 //create the component
 export default function Article(props) {

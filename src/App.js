@@ -1,4 +1,3 @@
-import ArticleList from "./components/ArticleList"
 import Header from "./components/Header";
 import Article from "./components/Article"
 import Footer from "./components/Footer";

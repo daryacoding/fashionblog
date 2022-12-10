@@ -13,7 +13,7 @@ export default function Footer(){
                     <li><a href="">Tips</a></li>
                 </ul>
             </nav>
-            &copy; 2013 Valet Industries, Inc
+            <div className="copyright">&copy; 2013 Valet Industries, Inc</div>
         </footer>
     )
 }
